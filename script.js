@@ -13,3 +13,10 @@ console.log("Person name is: " + Bean);
 
 // Activity 3
 let tido_list = ["tax return", "go to embassy", "change nail"];
+
+let myTable = {
+  brand: "Coach",
+  color: "beige",
+  isUsed: true,
+  numberofused: 10,
+};
