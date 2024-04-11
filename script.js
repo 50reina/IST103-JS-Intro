@@ -9,14 +9,17 @@ let knowsJavaScript = false;
 let hobbies; // Bean's hobbies are not defined yet
 let previousEmployer = null; // Bean is student
 
-console.log("Person name is: " + Bean);
+console.log("A random person name is: " + personName);
 
 // Activity 3
-let tido_list = ["tax return", "go to embassy", "change nail"];
+let todolist = ["tax return", "go to embassy", "change nail"];
 
-let myTable = {
+let myBackpack = {
   brand: "Coach",
   color: "beige",
   isUsed: true,
-  numberofused: 10,
+  numberOfUsed: 10,
 };
+
+console.log("my first to do is: " + todolist[0]);
+console.log("my backpack color is: " + myBackpack.color);
