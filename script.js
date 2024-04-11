@@ -1,5 +1,7 @@
 //alert("Hello World");
 
+console.log("Person name is " + Bean);
+
 let personName = "Bean";
 let personAge = "12";
 let personiskid = true;
